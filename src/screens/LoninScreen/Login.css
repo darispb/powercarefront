@@ -1,0 +1,72 @@
+
+.head-register{
+    text-align: center;
+  }
+  .Powercarepic {
+    width: 200px;
+    margin-top: 0.5in;
+  }
+  
+  .h2{
+    font-size: 28;
+    font-weight: 700;
+  }
+  
+  .btn-round {
+    background: #5a5656;
+    border-radius: 50%;
+    color: #f4f4f4;
+    display: block;
+    font-size: 12px;
+    height: 50px;
+    line-height: 50px;
+    margin: 30px 125px;
+    text-transform: uppercase;
+    width: 50px;
+  }
+  
+  .mb-3 {
+    width: 400px;
+    margin-top: 20px;
+    align-items: center;
+    text-align: left;
+    font-size: 20;
+  }
+  
+  .option{
+    padding: 12px 20px;
+    margin: 8px 0;
+    
+  }
+  
+  
+  /* login  */
+  .mb-3-login {
+    width: 300px;
+    margin-top: 20px;
+    cursor: pointer;
+    align-items: center;
+    text-align: left;
+    font-size: 20;
+  }
+  
+  .btn-sc {
+    background-color: #577eab;
+    font-size: 18;
+    border-radius: 4px;
+    width: 120px;
+    color: white;
+    margin-top: 0.2in;
+  }
+  
+  .btn-sc1 {
+    background-color: #577eab;
+    font-size: 18;
+    border-radius: 4px;
+    width: 120px;
+    color: white;
+    margin-top: 0.1in;
+    margin-bottom: 1in;
+    
+  }
+  
